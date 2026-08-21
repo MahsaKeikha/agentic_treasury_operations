@@ -1,0 +1,1 @@
+Reconcile cash evidence, expose forecast assumptions, stress liquidity, enforce controls, and require authorized human approval for any treasury action.

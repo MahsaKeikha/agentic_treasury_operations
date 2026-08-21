@@ -1,3 +1,3 @@
 # F158 Agentic Treasury Operations
 
-Standalone multi-agent system for liquidity, cash forecasting, funding, controls, and treasury decision support.
+Multi-agent treasury reference system for cash visibility, forecasting, liquidity, funding, controls, and authorized review. It does not move funds.
